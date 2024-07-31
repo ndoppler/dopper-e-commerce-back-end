@@ -1,7 +1,7 @@
 # dopper-e-commerce-back-end
 
 ## Purpose
-The purpose of this challenge was to build a backend application that allowed users to perform get/post/put/delete CRUD apis to affect an ecommerce database system.
+The purpose of this challenge was to build a backend application that allowed users to perform get/post/put/delete CRUD apis to affect an ecommerce database system.  We utilized Sequelize as our ORM and Postgres as our SQL database.
 
 ## Description
 This App allows users to perform all CRUD operations through multiple tables with association through foreign keys by using Sequelize as an ORM and Postgres as a SQL database.
